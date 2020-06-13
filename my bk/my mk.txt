@@ -1,0 +1,29 @@
+Ducks folder structure
+
+https://github.com/FortechRomania/react-redux-complete-example/tree/master/src/app/state/utils
+https://medium.com/building-crowdriff/react-redux-file-architecture-ducks-it-up-6b32eaaba341
+https://itnext.io/scalable-redux-architecture-for-react-projects-with-redux-saga-and-typescript-f6afe1dece9b
+https://github.com/codica2/react-app-best-practice/blob/master/src/views/pages/profile.js
+
+
+Project on github
+https://github.com/codica2/react-app-best-practice/tree/master/src
+
+https://appliedtechnology.github.io/protips/
+
+https://cssgenerator.org/rgba-and-hex-color-generator.html
+
+
+git remote set-url origin https://sa5040:sam.5040@github.com/kunalingole/afro.git
+https://www.edufever.com/cbse-class-4-maths-books/
+
+MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled Mui-required Mui-required
+
+MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl
+
+REf no : 010420201605544306
+
+6075320777385583
+05/19 04/24
+176
+rinki sanjeev raghuwanshi
